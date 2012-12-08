@@ -182,11 +182,13 @@ public class ItemDrag : MonoBehaviour {
 		//
 		if (gameObject.name == "obj_bottle" && (collisionInfo.name == "gdt_recycle"))
 		{
+			collisionInfo.transform.SendMessage("AnimateTrash");
 			KillMosquitos(gameObject);				
 		}
 
 		if (gameObject.name == "obj_tire" && (collisionInfo.name == "gdt_recycle"))
 		{
+			collisionInfo.transform.SendMessage("AnimateTrash");
 			KillMosquitos(gameObject);				
 		}
 
@@ -199,6 +201,8 @@ public class ItemDrag : MonoBehaviour {
 		MosquitoHandler	handler = (MosquitoHandler)receiver.GetComponent(typeof(MosquitoHandler));
 		
 		handler.KillMosquitos();
+		
+		audio.Play();
 	}
 	
     void OnTriggerExit(Collider collisionInfo) {
