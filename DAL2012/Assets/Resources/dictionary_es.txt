@@ -1,0 +1,46 @@
+lbl_play::Jugar
+lbl_title::Escuadron Salud
+lbl_exit::Salir
+lbl_start::Iniciar
+lbl_loading::Espere...
+lbl_dengue::Dengue
+lbl_diarrhea::Diarrea
+lbl_doctor_main_menu::Selecciona una enfermedad\n y aprende a prevenirla
+lbl_tip1::El dengue es una enfermedad transmitida\n por el mosquito Aedes Aegypti
+lbl_tip2::Se presenta en dos formas,\n dengue clasico y dengue hemorragico
+lbl_tip3::El mosquito pica de dia, generalmente\n lo hace en las mananas y tardes
+lbl_tip4::Consejos para prevenir el dengue
+lbl_tip5::Recuerda que debes de contar con la ayuda\n de un adulto cuando combatas el dengue
+lbl_tip6::El dengue deposita sus huevos\n en agua estancada
+lbl_tip7::Por eso debes reciclar botellas y\n objetos que puedan acumular agua
+lbl_tip8::Limpia y repara las canoas de la casa\n y recuerda usar guantes
+lbl_tip9::Cambia el agua de los floreros\n cada 5 dias
+lbl_tip10::Debes rellenar con arena los huecos\n de las tapias, arboles y charcos
+lbl_tip11::Si los mosquitos persisten pidele a\n un adulto que te aplique repelente
+lbl_tip12::Estar dispuesto a ayudar aprendiendo y\njugando?
+lbl_mosquito_tip1::Franjas blancas
+lbl_mosquito_tip2::Consejos para prevenirlo
+lbl_tutorial_play::Jugar!
+lbl_province6::Alerta! Limon es la provincia que reporta\n mas casos de dengue
+lbl_province7::Oh oh! Puntarenas reporta muchos casos\n de dengue
+lbl_province2::Atencion! Alajuela es la tercer provincia\n con mas casos de dengue. Manos a la obra
+lbl_province4::Uy, La situacion de Heredia es preocupante!\n 1640 casos en el ano
+lbl_province5::Guanacaste presenta mas de mil casos\n de dengue, destruyamos los criaderos 
+lbl_province1::Bien! San jose es una de las provincias con\n menos casos de dengue, sigamos alerta
+lbl_province3::Cartago esta muy bien! pero no nos podemos\n descuidar, eliminemos los criaderos!
+lbl_provinceTitle6::Casos\nLimon
+lbl_provinceTitle7::Casos\nPuntarenas
+lbl_provinceTitle2::Casos\nAlajuela
+lbl_provinceTitle4::Casos\nHeredia
+lbl_provinceTitle5::Casos\nGuanacaste
+lbl_provinceTitle1::Casos\nSan Jose 
+lbl_provinceTitle3::Casos\nCartago
+lbl_provinceCases6::5302
+lbl_provinceCases7::3233
+lbl_provinceCases2::2858
+lbl_provinceCases4::1640
+lbl_provinceCases5::1082
+lbl_provinceCases1::1015
+lbl_provinceCases3::289
+lbl_congratulations::Felicidades!
+lvl_next::Continuar
